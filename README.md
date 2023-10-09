@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @brenno-net from Brazil
+- 👋 Hi, I’m @brenno-net from Brazil!
+- A Network Engineer student at Universidade de Brasília.
 
-- 👀 I’m interested in game dev for hobby!
+- 👀 I’m interested in game development for hobby!
 
-- 🌱 I’m currently learning C++, Python, Web Dev.
+- 🌱 I’m currently learning C++, Python, Web Development.
 
 
 <!---
